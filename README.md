@@ -1,6 +1,6 @@
 # HR-Analytics-Dashboard
 ## Problem Statement
-Organization ABC has been facing issues towaards improving the average employee retention rate. So, the goal was to improve the employee performance and reduce attrition by creating the above dashboard.
+Organization ABC has been facing issues towaards improving the average employee retention rate. So, the goal was to improve employee performance and reduce attrition by creating the above dashboard.
 ## Solution Approach:
 To address the problem statement, the following approach was used:
 
@@ -28,8 +28,9 @@ By implementing the above solution approach, company ABC expects to achieve the 
 
 3. Increased Efficiency: By utilizing Power BI's data transformation features, data cleaning and transformation tasks are streamlined. This saves time and effort, allowing users to focus more on analyzing the data and extracting valuable insights.
 
-### The preview of the dashboard can be shown below-
+### The preview of the dashboard is shown below-
 ![HR Analytics Dashboard Preview](https://github.com/AlankritaSah/incentify/assets/82670991/a95091af-7a93-4df6-96f9-a4818826860e)
 
-The dashboard was designed to be interactive, allowing users to filter and drill down into specific dimensions or time periods of interest which can be previwed here-
+The dashboard was designed to be interactive, allowing users to filter and drill down into specific dimensions or time periods of interest which can be previewed here-
+
 ![Attrition by Age-Group](https://github.com/AlankritaSah/incentify/assets/82670991/7b59f8b8-189c-489a-ab5c-8d35a7f6114c)
