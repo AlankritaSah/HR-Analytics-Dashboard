@@ -5,7 +5,7 @@ Organization ABC has been facing issues towaards improving the average employee 
 To address the problem statement, the following approach was used:
 
 - Data Import and Initial Analysis:
-The sales data was provided in a CSV file. Initial insights were drawn from the data using Excel Calculations and analysis techniques to gain a preliminary understanding of the employee retention trend.
+The employee data was provided in a CSV file. Initial insights were drawn from the data using Excel Calculations and analysis techniques to gain a preliminary understanding of the employee retention trend.
 
 - Connecting Dataset to Power BI:
 The CSV file was connected to Power BI, establishing a live connection or importing the necessary data tables into Power BI.
